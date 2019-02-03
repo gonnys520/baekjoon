@@ -10,7 +10,9 @@ public class Question10998 {
 		
 		int a = 0;
 		int b = 0;
-			
+		
+		sc.close();
+		
 			a = sc.nextInt();
 			b = sc.nextInt();
 			

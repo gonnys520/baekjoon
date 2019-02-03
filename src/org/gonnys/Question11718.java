@@ -8,6 +8,8 @@ public class Question11718 {
 		
 		Scanner sc = new Scanner(System.in);
 		
+		sc.close();
+		
 		while(sc.hasNextLine()) {
 			
 			String msg = sc.nextLine();
